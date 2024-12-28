@@ -36,7 +36,7 @@ For human tissues, we segmented all colon polyp images from the open-source data
 
 - [SPIDER.zip](https://pan.baidu.com/s/1yG04Dk6aOEU3fUm3M-0P0Q)
 
-**2. Train the VM-UNet** </br>
+**2. Train the CFM-UNet** </br>
 You can try using the model in `CFM-UNet.py`.
 
 ## Acknowledgement
