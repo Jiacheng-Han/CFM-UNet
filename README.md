@@ -14,6 +14,12 @@ In medical image segmentation, traditional CNN-based models excel at extracting 
 
 ## Overview
 
+* The overall architecture of CFM-UNet. The blue and green components represent the Local Branch and Global Branch, respectively, while the yellow component denotes the SEF block feature fusion module, and the gray sections indicate the upsampling process.
+
+<p align="center">
+  <img src="CFM-UNet.png" alt="architecture" width="80%">
+</p>
+
 ## Getting Started
 
 ### **1. Main Environments** </br>
@@ -50,7 +56,7 @@ For human tissues, we segmented all colon polyp images from the open-source data
 - [SPIDER.zip](https://pan.baidu.com/s/1yG04Dk6aOEU3fUm3M-0P0Q)
 
 ### **3. Train Your CFM-UNet** </br>
-You can try using the model in `CFM-UNet.py`.
+You can try using the model in `CFMUNet.py`.
 
 ## Acknowledgement
 Thanks to [VMamba](https://github.com/MzeroMiko/VMamba) and [VM-UNet](https://github.com/JCruan519/VM-UNet) for their outstanding work.
