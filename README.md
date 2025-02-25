@@ -2,7 +2,7 @@
 <h1>CFM-UNet </h1>
 <h3>CFM-UNet: Coupling Local and Global Feature Extraction Networks for Medical Image Segmentation</h3>
 
-<u>Ke Niu</u>, Jiacheng Han, Jiuyun Cai
+*Ke Niu*, Jiacheng Han, Jiuyun Cai
 
 🔥 News: This paper has been accepted for publication by *Scientific Reports* (JCR Q1) !
 
