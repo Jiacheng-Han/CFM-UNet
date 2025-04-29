@@ -17,7 +17,7 @@ In medical image segmentation, traditional CNN-based models excel at extracting 
 * The overall architecture of CFM-UNet. The blue and green components represent the Local Branch and Global Branch, respectively, while the yellow component denotes the SEF block feature fusion module, and the gray sections indicate the upsampling process.
 
 <p align="center">
-  <img src="CFM-UNet.png" alt="architecture" width="80%">
+  <img src="test.png" alt="architecture" width="80%">
 </p>
 
 ## Getting Started
