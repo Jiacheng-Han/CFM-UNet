@@ -4,7 +4,7 @@
 
 *Ke Niu*, Jiacheng Han, Jiuyun Cai
 
-🔥 News: This paper has been accepted for publication by *Scientific Reports* (JCR Q1) !
+🔥 News: This [paper](https://links.springernature.com/f/a/wJWngzjyuRzuCW5m-z_c2g~~/AABE5hA~/wXl-85JIrRA-qANZiPbSgE6PnpMcYWZXeofP478IoR4YWm6PVRYXVo8NinQkmelq7r6BXEgpl-nnoIpWlExLtLY5-1z9zlVheCx1ld7B2RRrqG7WRC04FOHgSrqhp5LHQJ8tjoCerT8wkCD7mqCBQZgiWvmJ51lAgYSJABoCRiwZZ8FaEVmTXcLSPU6TF654o2azlHEJ8-qFGMjUTO1xdV9yCxZAV73f6NYu9qsjyhg582tg-QqOxOottB5fIHLCPiE5vDLHNmBaWWMBOHf68EQGkxRkXwW9OhXdDUdkIWg~) has been accepted for publication by *Scientific Reports* (JCR Q1) !
 
 </div>
 
